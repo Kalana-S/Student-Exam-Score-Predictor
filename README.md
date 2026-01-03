@@ -122,6 +122,8 @@ The training dataset contains student-related academic and lifestyle features al
 
 Full app workflow — UI → Input → Prediction<br>
 
+https://github.com/user-attachments/assets/c1e2dd79-023a-429f-85c4-765e1c35e3b2
+
 ---
 
 ## 🤝 Contribution
