@@ -98,7 +98,7 @@ The model predicts **exam score** using the following inputs:
 
 4. **Run the app**:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
 
 ---
 
